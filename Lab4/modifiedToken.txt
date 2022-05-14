@@ -1,0 +1,1 @@
+[float][id 1][=][3.125][;;][;][double][id 2][(][float][id ][,][int][int][id ][)][{][if][(][id ][<][id 1][)][double][id ][;;][else][id ][=][0.01][;][}][}][else][return][id ][;][}][int][id 6][(][void][)][{][{{][{][int][id ][;][double][id ][;][id ][=][25][;][id ][=][id 2][(][id ][)][;][}]
