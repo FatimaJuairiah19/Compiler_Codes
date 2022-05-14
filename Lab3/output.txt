@@ -1,0 +1,1 @@
+[kw float][id x1][op =][num 3.125][sep ;][kw int][unkn ][id px][sep ;][kw double][id f1][sep (][kw int][id x][sep )][sep {][kw double][id z][sep ;][id z][op =][num 0.01][sep ;][kw return][id z][sep ;][sep }][kw int][id main][sep (][kw void][sep )][sep {][kw int][id n1][sep ;][kw double][id z][sep ;][id n1][op =][num 25][sep ;][id z][op =][id f1][sep (][id n1][sep )][sep ;][sep }]
